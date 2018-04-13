@@ -1,0 +1,103 @@
+ 
+ PIHM START 
+Job started on comp-sc-0139.acib.production.int.aci.ics.psu.edu at Thu Apr 12 00:31:18 EDT 2018
+[1523507478.859520] [comp-sc-0139:39182:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.865280] [comp-sc-0139:39186:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.860950] [comp-sc-0139:39182:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.860792] [comp-sc-0139:39178:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.862177] [comp-sc-0139:39178:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.862323] [comp-sc-0139:39180:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.863726] [comp-sc-0139:39180:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.865543] [comp-sc-0139:39181:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.866675] [comp-sc-0139:39186:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.868883] [comp-sc-0139:39181:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.874959] [comp-sc-0139:39179:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.876831] [comp-sc-0139:39179:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.873162] [comp-sc-0139:39183:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.875499] [comp-sc-0139:39183:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.873340] [comp-sc-0139:39184:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.875891] [comp-sc-0139:39184:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.875955] [comp-sc-0139:39185:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.877410] [comp-sc-0139:39185:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.874654] [comp-sc-0139:39187:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.876547] [comp-sc-0139:39187:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.886589] [comp-sc-0139:39188:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.888573] [comp-sc-0139:39188:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.886523] [comp-sc-0139:39190:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.888503] [comp-sc-0139:39190:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.893510] [comp-sc-0139:39191:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.893031] [comp-sc-0139:39192:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.892688] [comp-sc-0139:39193:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.893661] [comp-sc-0139:39194:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.893193] [comp-sc-0139:39196:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.894361] [comp-sc-0139:39189:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.894041] [comp-sc-0139:39195:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.899114] [comp-sc-0139:39192:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.897197] [comp-sc-0139:39193:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.900764] [comp-sc-0139:39189:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.901584] [comp-sc-0139:39194:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.899542] [comp-sc-0139:39197:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.905258] [comp-sc-0139:39197:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.902155] [comp-sc-0139:39195:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.902097] [comp-sc-0139:39196:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.901090] [comp-sc-0139:39191:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.894515] [comp-sc-0133:31081:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.895898] [comp-sc-0133:31081:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.893205] [comp-sc-0133:31082:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.894657] [comp-sc-0133:31082:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.896066] [comp-sc-0133:31083:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.897690] [comp-sc-0133:31083:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.897625] [comp-sc-0133:31084:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.898923] [comp-sc-0133:31084:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.906375] [comp-sc-0133:31086:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.906411] [comp-sc-0133:31087:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.907742] [comp-sc-0133:31085:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.909139] [comp-sc-0133:31085:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.908152] [comp-sc-0133:31087:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.909666] [comp-sc-0133:31086:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.908694] [comp-sc-0133:31088:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.910037] [comp-sc-0133:31088:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.910305] [comp-sc-0133:31089:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.912020] [comp-sc-0133:31089:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.912102] [comp-sc-0133:31091:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.913462] [comp-sc-0133:31091:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.919897] [comp-sc-0133:31090:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1523507478.921262] [comp-sc-0133:31090:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+
+		########  #### ##     ## ##     ##
+		##     ##  ##  ##     ## ###   ###
+		##     ##  ##  ##     ## #### ####
+		########   ##  ######### ## ### ##
+		##         ##  ##     ## ##     ##
+		##         ##  ##     ## ##     ##
+		##        #### ##     ## ##     ##
+
+	    The Penn State Integrated Hydrologic Model
+
+	    * Land surface module turned on.
+
+	    * Ensemble Kalman filter turned on.
+
+Output directory: output/3_Q.1804120031/
+Ensemble members: 30
+Default observation cycle: 72 hour(s)
+Observations: discharge
+
+Initial parameters
+POROSITY:
+0.845728	0.745299	0.918845	0.674321	0.569783	0.748734	0.497571	0.904844	0.863308	0.931360	0.562957	0.796695	0.626132	1.053400	0.423996	0.925354	0.413601	0.864312	0.926604	1.013845	0.645953	0.747719	0.625765	0.888905	0.633097	0.805648	0.778278	0.582166	0.998092	0.487686	mean: 0.750000
+Initial std 0.180000
+ALPHA:
+2.003871	1.083740	1.870579	1.584708	1.242457	2.173346	0.446151	1.259373	1.197280	0.806193	1.088677	0.705725	1.462341	1.495067	0.965848	0.888953	0.927475	1.745153	1.695748	2.259216	1.665801	1.538185	1.067695	0.971214	0.821758	0.529512	0.474458	0.820706	0.920564	1.788207	mean: 1.250000
+Initial std 0.500000
+BETA:
+1.375242	1.389802	1.393889	1.375415	1.633030	1.732696	1.420575	1.362044	0.972725	1.345583	1.286243	1.666764	1.501278	1.450074	1.574477	1.276234	1.455257	1.308009	1.065773	1.138137	1.194713	1.249413	1.253236	1.125142	1.458561	1.064908	1.251520	1.506709	1.673664	0.998887	mean: 1.350000
+Initial std 0.200000
+
+Running ensemble members from 2009-01-01 00:00 to 2009-04-01 00:00
+
+ ERROR: output/3_Q.1804120031/3_Q.001.surf.dat is in use or does not exist!
+Exit from Node 0
+ PIHM END
+Job Ended at Thu Apr 12 00:44:39 EDT 2018
+ 

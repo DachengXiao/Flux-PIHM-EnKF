@@ -2,7 +2,7 @@ NUM_ENSEMBLE_MEMBER     30
 ASSIMILATION_INTERVAL   72      # [HOUR]
 START_MODE              0       # 3: Using existing .calib files # 2: Perturbing near the calibrated value in .calib # [-1 -- 1]: Perturbing around 
 INFLATION_WEIGHT        0.5
-ASSIMILATION_END_TIME   2009-03-01 00:00
+ASSIMILATION_END_TIME   2009-12-01 00:00
 
 ###################
 # PARAMETER TABLE #
