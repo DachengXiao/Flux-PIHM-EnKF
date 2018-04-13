@@ -211,6 +211,11 @@ void InitOper (char *project, enkf_struct ens)
             ens->obs[i].type = SM_OBS;
             COSMOSOper (&ens->obs[i], pihm);
         }
+        else if (strcasecmp (ens->obs[i].name, "SPVF10") == 0)
+        {
+            ens->obs[i].type = SPVF10_OBS;
+            SPVF10Oper (&ens->obs[i], ens->var, pihm);
+        }
         else
         {
             printf ("ERROR: Cannot find the operator for %s!\n",
