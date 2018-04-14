@@ -1,0 +1,33 @@
+#The PBS directives
+#####################################
+#PBS -N Q+COSMOS+unsat
+#PBS -A lxl35_d_g_sc_default
+#PBS -M dzx102@psu.edu
+#PBS -m abe
+#PBS -j oe
+#PBS -l nodes=2:ppn=20
+#PBS -l pmem=10gb
+#PBS -l walltime=15:00:00
+
+#   Specify the permanent directory on the
+#   server host. Note that when the job begins
+#   execution, the current working directory at 
+#   the time the qsub command was issued becomes
+#   the current working directory of the job.
+
+cd $PBS_O_WORKDIR
+#   the directory that this script is being submitted from,
+#   $PBS_O_WORKDIR.
+#
+
+echo " "
+echo " PIHM START "
+echo "Job started on `hostname` at `date`"
+module load gcc/5.3.1
+module load openmpi/1.10.1
+mpirun -np 31 ./flux-pihm-enkf case10
+echo " PIHM END"
+echo "Job Ended at `date`"
+echo " "
+
+

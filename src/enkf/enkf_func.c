@@ -208,7 +208,7 @@ void InitOper (char *project, enkf_struct ens)
         }
         else if (strcasecmp (ens->obs[i].name, "COSMOS") == 0)
         {
-            ens->obs[i].type = SM_OBS;
+            ens->obs[i].type = COSMOS_OBS;
             COSMOSOper (&ens->obs[i], pihm);
         }
         else if (strcasecmp (ens->obs[i].name, "SPVF10") == 0)
@@ -216,6 +216,11 @@ void InitOper (char *project, enkf_struct ens)
             ens->obs[i].type = SPVF10_OBS;
             SPVF10Oper (&ens->obs[i], ens->var, pihm);
         }
+        else if (strcasecmp (ens->obs[i].name, "UNSAT") == 0)
+        {
+            ens->obs[i].type = UNSAT_OBS;
+            UNSATOper (&ens->obs[i], ens->var, pihm);
+        } 
         else
         {
             printf ("ERROR: Cannot find the operator for %s!\n",

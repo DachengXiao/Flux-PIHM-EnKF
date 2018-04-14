@@ -15,7 +15,7 @@ enum prmt_type {KSATH, KSATV, KINF, KMACH, KMACV, DINF, RZD, DMAC, POROSITY,
     RIVSHPCOEFF, DRIP, INTCP, RSMIN, CZIL, FXEXP, CFACTR, RGL, HS, THETAREF,
     THETAW};
 
-enum obs_type {RUNOFF_OBS, TSKIN_OBS, SM_OBS, SPVF10_OBS};
+enum obs_type {RUNOFF_OBS, TSKIN_OBS, COSMOS_OBS, SPVF10_OBS, UNSAT_OBS};
 typedef struct var_struct
 {
     char            name[MAXSTRING];
